@@ -1,6 +1,6 @@
 {
   "name": "attempt-statement",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "try in fp",
   "keywords": [
     "attempt",
